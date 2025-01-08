@@ -61,7 +61,7 @@ The dataset used in this project is the Titanic dataset from [Kaggle](https://ww
 
 ## Model Performance
 
-The model achieved **[83]% accuracy** after hyperparameter tuning. Key insights were derived from feature importance analysis, highlighting the significant factors influencing survival.
+The model achieved **83% accuracy** after hyperparameter tuning. Key insights were derived from feature importance analysis, highlighting the significant factors influencing survival.
 
 ---
 
